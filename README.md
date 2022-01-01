@@ -4,22 +4,22 @@
 
 
 <!--  this is for social handling-->
-<a href="https://www.linkedin.com/in/kunal-kushwaha/">
+<a href="https://www.linkedin.com/in/shantanu-pawar-943509176/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/kunalstwt">
+<a href="https://twitter.com/shantanu_pawar_">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:kunalkushwaha453@gmail.com">
+<a href="mailto:shantanupawar292@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw">
+<!-- <a href="https://www.youtube.com/channel/UC5BzhRY0WOMcraMTIQIBc6A">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<a href="http://dev.to/kunal">
+</a> -->
+<!-- <a href="http://dev.to/kunal">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://www.instagram.com/kunalsig/">
+</a> -->
+<a href="https://www.instagram.com/shantanu.29_/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
