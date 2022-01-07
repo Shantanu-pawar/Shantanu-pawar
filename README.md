@@ -31,9 +31,9 @@
 
 - 🔭 I’m currently working on **App development**
 
-- 🌱 I’m currently learning **Android Studio**
+- 🌱 I’m currently learning **Everything**
 
-- 💬 Ask me about **Developement**
+- 💬 Contribute More To Open Sources Projects 
 
 - 📫 How to reach me **shantanupawar292@gmail.com**
 
