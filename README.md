@@ -31,7 +31,7 @@
 
 - 🔭 I’m currently working on **App development**
 
-- 🌱 I’m currently learning **Everything**
+- 🌱 I’m currently learning **Everything*?😏
 
 - 💬 Contribute More To Open Sources Projects 
 
