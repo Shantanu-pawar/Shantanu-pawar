@@ -1,5 +1,5 @@
 
-### Hey<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"> I'm [Shantanu.!](https://github.com/Shantanu-pawar)
+### Hey I'm [Shantanu.!](https://github.com/Shantanu-pawar)
 
 <!--  this is for social handling-->
 <a href="https://www.linkedin.com/in/shantanu-pawar-943509176/">
