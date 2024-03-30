@@ -46,14 +46,12 @@ for icons)
 <h3 align="left">Languages and Tools:</h3>
 
 <div align="left">
-<img height="40px" src="https://skillicons.dev/icons?
-i=java,spring,mysql,idea,postman,docker,git,maven, elastic search " />
+<img height="40px" src="https://skillicons.dev/icons?i=java,spring,mysql,idea,postman,docker,git,maven" />
 </div>
 
 <h3 align="left">Hobby work</h3>
 <div align="left">
-<img height="40px" src="https://skillicons.dev/icons?
-i=ps,pr,docker, " />
+<img height="40px" src="https://skillicons.dev/icons?i=ps,pr" />
 </div>
 
 <!-- <h3 align="left">Support:</h3>
